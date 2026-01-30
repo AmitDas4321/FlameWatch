@@ -86,7 +86,11 @@ Press **Q** to stop and close the camera.
 
 ### 🎥 Live Camera View
 
-<p align="center"><img src="screenshots/live_view.png" width="800"></p>
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=P-w17AdjpsQ" target="_blank">
+    <img src="https://img.youtube.com/vi/P-w17AdjpsQ/0.jpg" width="800" alt="FlameWatch Demo Video">
+  </a>
+</p>
 
 ---
 
